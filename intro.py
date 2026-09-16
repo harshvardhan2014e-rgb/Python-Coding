@@ -8,6 +8,6 @@ print("I am a student of class 7th")
 
 print(12)
 
-print(10 + 2)
+print(10 + 3)
 
 print("Hi I am Harsh", 12)
